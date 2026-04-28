@@ -4,7 +4,7 @@
 
 # Saarthak K Goyal
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=CS+Undergrad+%40+Medicaps+University;Full-Stack+Developer;Cybersecurity+Enthusiast;Competitive+Programmer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=CS+Undergrad;Full-Stack+Developer;Backend+Developer;Competitive+Programmer)](https://git.io/typing-svg)
 
 </div>
 
@@ -90,7 +90,6 @@ A full-stack web portal for the university's international affairs office, handl
 Beyond coursework, I spend time on:
 - **Cybersecurity** — malware analysis, exploit research, network security
 - **Competitive Programming** — DSA, algorithm patterns, LeetCode
-- **Gaming** — Genshin Impact
 
 ---
 
